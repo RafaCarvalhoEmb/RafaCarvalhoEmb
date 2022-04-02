@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RafaCarvalhoEmb
+- 👀 I’m interested in Data Science and Big Data
+- 🌱 I’m currently learning Python and Dax
+- 📫
